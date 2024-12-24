@@ -1,0 +1,14 @@
+C:\Users\Hanaa\source\repos\alg\bin\Debug\net8.0\alg.exe
+C:\Users\Hanaa\source\repos\alg\bin\Debug\net8.0\alg.deps.json
+C:\Users\Hanaa\source\repos\alg\bin\Debug\net8.0\alg.runtimeconfig.json
+C:\Users\Hanaa\source\repos\alg\bin\Debug\net8.0\alg.dll
+C:\Users\Hanaa\source\repos\alg\bin\Debug\net8.0\alg.pdb
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\alg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\alg.AssemblyInfoInputs.cache
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\alg.AssemblyInfo.cs
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\alg.csproj.CoreCompileInputs.cache
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\alg.dll
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\refint\alg.dll
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\alg.pdb
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\alg.genruntimeconfig.cache
+C:\Users\Hanaa\source\repos\alg\obj\Debug\net8.0\ref\alg.dll
